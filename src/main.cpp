@@ -16,7 +16,7 @@ void book_page52_t5() {
 		->setSplit(5)
 		->setFontSize(20)
 		->setLineSpacing(0.66)
-		->printText();
+		->drawGraph();
 
 	/*тщн╢йм╥едз╢Ф*/
 }
