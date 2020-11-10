@@ -1,4 +1,4 @@
-#include"Painter.h"
+О╩©#include"Painter.h"
 
 void book_page52_t5() {
 	Equipment* CPU = new Equipment();
@@ -18,7 +18,7 @@ void book_page52_t5() {
 		->setLineSpacing(0.66)
 		->drawGraph();
 
-	/*тщн╢йм╥едз╢Ф*/
+	/*Ф ┌Ф°╙И┤┼Ф■╬Е├┘Е╜≤*/
 }
 
 
